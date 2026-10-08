@@ -32,3 +32,17 @@ Configure Default Route Between HQ-Edge and Branch
 - GOAL 
 Acheive communication between PCs in HQ and BRANCH PC
 Acheive communication between PCs in HQ
+
+## FLOATING STATIC ROUTE 
+
+<div>
+  <img width="1444" height="636" alt="image" src="https://github.com/user-attachments/assets/e640aaa3-0e01-4829-8019-69c8ce27c8d1" />
+</div>
+
+
+
+## DYNAMIC ROUTING RIP, OSPF EIGRP 
+
+<div>
+  <img width="1049" height="659" alt="image" src="https://github.com/user-attachments/assets/475a13c2-51b7-4065-9a04-78f184e5649d" />
+</div>
