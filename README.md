@@ -33,6 +33,19 @@ Configure Default Route Between HQ-Edge and Branch
 Acheive communication between PCs in HQ and BRANCH PC
 Acheive communication between PCs in HQ
 
+## Codes / Commands
+
+- Create all the vlans on both switches
+- assign ip addresses to the device management vlan
+- Switch 0
+  <div>
+    <img width="635" height="496" alt="image" src="https://github.com/user-attachments/assets/4104bf44-ca52-4148-a39f-62e9e287f908" />
+  </div>
+- Switch 1
+  <div>
+    <img width="627" height="374" alt="image" src="https://github.com/user-attachments/assets/166bbc8b-d65a-4f69-bb9f-c14178bf75ea" />
+  </div>
+
 ## FLOATING STATIC ROUTE 
 
 <div>
