@@ -46,6 +46,7 @@ Acheive communication between PCs in HQ
     <img width="627" height="374" alt="image" src="https://github.com/user-attachments/assets/166bbc8b-d65a-4f69-bb9f-c14178bf75ea" />
   </div>
 
+
 ## FLOATING STATIC ROUTE 
 
 <div>
