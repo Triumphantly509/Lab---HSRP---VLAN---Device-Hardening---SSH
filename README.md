@@ -46,9 +46,25 @@ Acheive communication between PCs in HQ
     <img width="627" height="374" alt="image" src="https://github.com/user-attachments/assets/166bbc8b-d65a-4f69-bb9f-c14178bf75ea" />
   </div>
 - Configuring SSH device managements and allow only managers (Vlan 30) to access the devices.
-- Encrypts passwords in the configuration, and creates authentication credentials for administrative access.
+- Encrypting passwords in the configuration, and creates authentication credentials for administrative access.
 <div>
   <img width="386" height="58" alt="image" src="https://github.com/user-attachments/assets/04c4f651-9916-4143-add2-e0f7763eca7b" />
+</div>
+- Configure the domain name
+<div>
+  
+</div>
+- Assigning a management IP address to the switch to manage it remotely.
+<div>
+  <img width="500" height="142" alt="image" src="https://github.com/user-attachments/assets/ca3d428b-35d4-465c-93e9-f12b422cfc37" />
+</div>
+- line console 0
+<div>
+  <img width="397" height="331" alt="image" src="https://github.com/user-attachments/assets/9d639701-98b9-4f99-a1bc-615850ea3632" />
+</div>
+- SSH
+<div>
+  <img width="476" height="259" alt="image" src="https://github.com/user-attachments/assets/2ff52a1a-39ec-47d2-8621-8a4d0e9846c2" />
 </div>
 
 
