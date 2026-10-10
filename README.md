@@ -33,7 +33,7 @@ Configure Default Route Between HQ-Edge and Branch
 Acheive communication between PCs in HQ and BRANCH PC
 Acheive communication between PCs in HQ
 
-## Codes / Commands
+## Codes / Commands Layer 2 Switch
 
 - Create all the vlans on both switches
 - Configuring SSH device managements and allow only managers (Vlan 30) to access the devices.
@@ -62,6 +62,24 @@ Acheive communication between PCs in HQ
   <img width="476" height="259" alt="image" src="https://github.com/user-attachments/assets/2ff52a1a-39ec-47d2-8621-8a4d0e9846c2" />
 </div>
 
+## Codes / Commands Layer 3 Switch
+
+- Part 1
+
+<div>
+  <img width="436" height="344" alt="image" src="https://github.com/user-attachments/assets/1031ff3b-391d-4ddf-8307-ae09c9986991" />
+</div>
+
+- Part 2 Management SVI for VLAn 40
+
+<div>
+  <img width="426" height="346" alt="image" src="https://github.com/user-attachments/assets/1e006c9a-f13c-4a01-a1a4-131a49ef8cc0" />
+</div>
+
+- Part 3
+<div>
+  <img width="476" height="219" alt="image" src="https://github.com/user-attachments/assets/1e1f5fd4-3c8c-420b-8e74-54d0b93dc603" />
+</div>
 
 ## FLOATING STATIC ROUTE 
 
