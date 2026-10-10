@@ -36,11 +36,6 @@ Acheive communication between PCs in HQ
 ## Codes / Commands
 
 - Create all the vlans on both switches
-- assign ip addresses to the device management vlan
-- Switch 0
-  <div>
-    <img width="635" height="496" alt="image" src="https://github.com/user-attachments/assets/4104bf44-ca52-4148-a39f-62e9e287f908" />
-  </div>
 - Configuring SSH device managements and allow only managers (Vlan 30) to access the devices.
 - Encrypting passwords in the configuration, and creates authentication credentials for administrative access.
 <div>
