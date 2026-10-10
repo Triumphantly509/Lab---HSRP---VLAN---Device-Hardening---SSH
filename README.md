@@ -62,6 +62,11 @@ Acheive communication between PCs in HQ
   <img width="476" height="259" alt="image" src="https://github.com/user-attachments/assets/2ff52a1a-39ec-47d2-8621-8a4d0e9846c2" />
 </div>
 
+- Correction
+<div>
+  <img width="407" height="302" alt="image" src="https://github.com/user-attachments/assets/0b0a3491-5ac2-4568-8ac6-39823c604a96" />
+</div>
+
 ## Codes / Commands Layer 3 Switch
 
 - Part 1
