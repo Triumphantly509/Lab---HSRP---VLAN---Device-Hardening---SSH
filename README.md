@@ -45,6 +45,11 @@ Acheive communication between PCs in HQ
   <div>
     <img width="627" height="374" alt="image" src="https://github.com/user-attachments/assets/166bbc8b-d65a-4f69-bb9f-c14178bf75ea" />
   </div>
+- Configuring SSH device managements and allow only managers (Vlan 30) to access the devices.
+- Encrypts passwords in the configuration, and creates authentication credentials for administrative access.
+<div>
+  <img width="386" height="58" alt="image" src="https://github.com/user-attachments/assets/04c4f651-9916-4143-add2-e0f7763eca7b" />
+</div>
 
 
 ## FLOATING STATIC ROUTE 
