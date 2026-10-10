@@ -56,6 +56,10 @@ Acheive communication between PCs in HQ
 </div>
 - Assigning a management IP address to the switch to manage it remotely.
 <div>
+  <img width="627" height="374" alt="image" src="https://github.com/user-attachments/assets/cdbd2da3-ed15-491e-bcca-099f5cca8817" />
+</div>
+- Create an Access list to the managers vlan to access the management devices.
+<div>
   <img width="500" height="142" alt="image" src="https://github.com/user-attachments/assets/ca3d428b-35d4-465c-93e9-f12b422cfc37" />
 </div>
 - line console 0
