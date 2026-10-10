@@ -52,7 +52,7 @@ Acheive communication between PCs in HQ
 </div>
 - Configure the domain name
 <div>
-  
+  <img width="432" height="312" alt="image" src="https://github.com/user-attachments/assets/f5b1b3cc-d592-4aac-bd4b-abac8487c5fe" />
 </div>
 - Assigning a management IP address to the switch to manage it remotely.
 <div>
